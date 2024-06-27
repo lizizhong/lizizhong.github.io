@@ -21,7 +21,7 @@ repository               : "lizizhong/lizizhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Zizhong Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at University of California, Davis"
