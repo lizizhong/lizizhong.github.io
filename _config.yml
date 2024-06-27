@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZIZHONG LI"
+title                    : "ZIZHONG LI BLOG"
 title_separator          : "-"
 name                     : &name "Zizhong Li"
-description              : &description "PhD student at University of California, Davis"
+description              : &description "PhD student at the University of California, Davis"
 url                      : https://lizizhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizizhong/lizizhong.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.JPG"
   name             : "Zizhong Li"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at University of California, Davis"
+  bio              : "PhD student at the University of California, Davis"
   location         : "Davis, California"
   # employer         : "Red Brick University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/lizizhong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
