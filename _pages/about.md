@@ -16,11 +16,11 @@ Publications
 ------
 06.2024 Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval
 
-  [arixv]()
+  [arixv](https://arxiv.org/abs/2406.12169)
   
   **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
 
-  ![Intermediate Distillation]()
+  A data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM ranker-retriever pipeline, solely using LLMs' ranking generation as the supervision signal.
 
 03.2024 [NAACL2024🌟] Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation
 
@@ -28,6 +28,7 @@ Publications
 
   **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
 
-  ![Attention Distillation]()
+  
+
 
 
