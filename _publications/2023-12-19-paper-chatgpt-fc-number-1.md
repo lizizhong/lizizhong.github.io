@@ -16,4 +16,4 @@ paperurl: 'https://arxiv.org/abs/2312.11870'
 - We developed an evaluation framework to assess the quality of fact-checking content from both human journalists and LLMs, showing that the involvement of LLMs in fact-checking provides a valuable perspective, complementing the subjective nature of human ratings influenced by various factors.
 
 
-![An Example of ChatGPT-FC Dataset.](../images/ChatGPT_FC_fig2_new_version.png “A Data Instance from ChatGPT-FC Dataset.”)
+![An Example of ChatGPT-FC Dataset.](../images/ChatGPT_FC_fig2_new_version.png "A Data Instance from ChatGPT-FC Dataset.")
