@@ -14,7 +14,7 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Publications
 ------
-[06.2024] **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](http://academicpages.github.io/files/paper3.pdf)
+[06.2024] **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](_publications/)
   
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
 
