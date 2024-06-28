@@ -12,7 +12,7 @@ I am a CS Ph.D. student at the University of California, Davis, advised by [Dr.J
 My research interest lies in natural language processing, specifically in nonparametric language modeling, misinformation & information retrieval, and multi-modal generative models. 
 
 
-Publications
+Recent Publications
 ------
 [06.2024] **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-02-17-paper-title-number-4)
   
