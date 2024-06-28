@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2023-12-19-paper-chatgpt-fc-number-1
 excerpt: 'This paper revisits the existing fake news dataset verified by human journalists with augmented fact-checking by large language models (ChatGPT), and we name the augmented fake news dataset ChatGPT-FC.'
 date: 2023-12-19
+author: Zizhong Li, Haopeng Zhang, Jiawei Zhang
 paperurl: 'https://arxiv.org/abs/2312.11870'
 ---
 
