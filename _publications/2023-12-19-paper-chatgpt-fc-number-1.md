@@ -20,6 +20,7 @@ paperurl: 'https://arxiv.org/abs/2312.11870'
 ![An Example of ChatGPT-FC Dataset.](../images/ChatGPT_FC_fig2_new_version.png "A Data Instance from ChatGPT-FC Dataset.")
 
 **Data Collection**
+
 The data we collected and studied in the ChatGPT-FC dataset comes from the news fact-checking website PolitiFact, spanning from 2007 to 2023. PolitiFact was founded in 2007 as an election-year project of the Tampa Bay Times, where journalists fact-check influential statements made by politi- cians or on social media. We crawled a total number of 22,337 news statements from 4,636 creators across 23 affiliations in the ChatGPT-FC dataset. Each fact-checking report provides a clear fact-checking label selected from the pre-defined 6-level label set ({True, Mostly True, Half True, Barely True, False, Pants on Fire}), where True represents the completely accurate statements and Pants on Fire represents the completely false statements based on the news authenticity. Among all the statements checked by journalists, there are 7,016 true statements, and 15,321 fake statements3.
 
 On the other side, to utilize the ChatGPT API (text-davinci-003) for fact-checking the crawled news statements, we create a fact-checking prompt that includes the raw statement and fact-checking instructions. This query prompt will guide ChatGPT to generate truthfulness scores and supporting evidence, enabling us to evaluate the quality of ChatGPT’s generated text in terms of its semantic content and fact-checking score.
