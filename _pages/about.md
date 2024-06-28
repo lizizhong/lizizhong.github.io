@@ -16,6 +16,6 @@ Publications
 ------
 06.2024 **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**
 
-03.2024 [NAACL2024] **Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation**
+03.2024 [NAACL2024🌟] **Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation**
 
 
