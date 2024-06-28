@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"
+title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-Augmented Generation"
 collection: publications
 permalink: /publication/2024-02-19-paper-attention-distillation-number-2
 excerpt: 'This paper conducts a comprehensive review of attention distillation workflow and identifying key factors influencing the learning quality of retrieval-augmented language models. *In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics*'
