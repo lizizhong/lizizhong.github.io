@@ -24,4 +24,10 @@ Publications
 
 03.2024 [NAACL2024🌟] Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation
 
+  [arxiv]()
+
+  **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
+
+  ![Attention Distillation]()
+
 
