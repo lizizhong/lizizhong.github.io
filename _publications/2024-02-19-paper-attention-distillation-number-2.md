@@ -2,9 +2,8 @@
 title: "Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation"
 collection: publications
 permalink: /publication/2024-02-19-paper-attention-distillation-number-2
-excerpt: 'This paper conducts a comprehensive review of attention distillation workflow and identifying key factors influencing the learning quality of retrieval-augmented language models.'
+excerpt: 'This paper conducts a comprehensive review of attention distillation workflow and identifying key factors influencing the learning quality of retrieval-augmented language models. *In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics*'
 date: 2024-02-19
-venue: 'NAACL 2024'
 paperurl: 'https://aclanthology.org/2024.naacl-short.65/'
 author: Zizhong Li, Haopeng Zhang, Jiawei Zhang
 ---
