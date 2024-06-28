@@ -18,7 +18,7 @@ Publications
   
   **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
 
-  A data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM ranker-retriever pipeline, solely using LLMs' ranking generation as the supervision signal.
+  In this paper, we introduce *Intermediate Distillation*, A data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM ranker-retriever pipeline, solely using LLMs' ranking generation as the supervision signal.
 
 03.2024 [NAACL2024🌟] Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation  [arxiv](https://arxiv.org/abs/2402.11794)
 
