@@ -12,8 +12,8 @@ I am a CS Ph.D. student at the University of California, Davis, advised by [Dr.J
 My research interest lies in natural language processing, specifically in nonparametric language modeling, misinformation & information retrieval, and multi-modal generative models. 
 
 
-News
+Publications
 ------
-06.2024: one research paper on LLM knowledge distillation is available on arXiv.
+06.2024 [LLM knowledge distillation](https://arxiv.org/abs/2406.12169) **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**
 
-03.2024: one research paper is accepted to NAACL 2024.
+
