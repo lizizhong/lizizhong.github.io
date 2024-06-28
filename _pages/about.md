@@ -24,6 +24,8 @@ Publications
 
   **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
 
+  In this paper, we address this gap by conducting a comprehensive review of attention distillation workflow and identifying key factors influencing the learning quality of retrieval-augmented language models. We further propose indicators for optimizing models' training methods and avoiding ineffective training.
+
   
 
 
