@@ -1,7 +1,7 @@
 ---
 title: "Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval"
 collection: publications
-permalink: /publication/2024-06-18-intermediate-distillation-number-3
+permalink: /publication/2024-06-18-paper-intermediate-distillation-number-3
 excerpt: 'This paper introduce *Intermediate Distillation*, a data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM-ranker-retriever pipeline, solely using LLMs ranking generation as the supervision signal.'
 date: 2024-06-18
 paperurl: 'https://aclanthology.org/2024.naacl-short.65/'
