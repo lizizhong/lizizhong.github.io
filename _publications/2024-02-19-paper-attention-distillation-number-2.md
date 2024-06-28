@@ -6,6 +6,9 @@ excerpt: 'This paper conducts a comprehensive review of attention distillation w
 date: 2024-02-19
 venue: 'NAACL 2024'
 paperurl: 'https://aclanthology.org/2024.naacl-short.65/'
+author: Zizhong Li, Haopeng Zhang, Jiawei Zhang
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+Retrieval-augmented generation framework can address the limitations of large language models by enabling real-time knowledge updates for more accurate answers. An efficient way in the training phase of retrieval-augmented models is attention distillation, which uses attention scores as a supervision signal instead of manually annotated query-document pairs. Despite its growing popularity, the detailed mechanisms behind the success of attention distillation remain unexplored, particularly the specific patterns it leverages to benefit training. In this paper, we address this gap by conducting a comprehensive review of attention distillation workflow and identifying key factors influencing the learning quality of retrieval-augmented language models. We further propose indicators for optimizing models' training methods and avoiding ineffective training.
