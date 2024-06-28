@@ -1,9 +1,9 @@
 ---
 title: "A revisit of fake news dataset with augmented fact-checking by chatgpt"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-12-19-paper-chatgpt-fc-number-1
 excerpt: 'This paper revisits the existing fake news dataset verified by human journalists with augmented fact-checking by large language models (ChatGPT), and we name the augmented fake news dataset ChatGPT-FC.'
-date: 23-12-19
+date: 2023-12-19
 paperurl: 'https://arxiv.org/abs/2312.11870'
 ---
 
