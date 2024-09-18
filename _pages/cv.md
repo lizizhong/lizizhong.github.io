@@ -23,14 +23,15 @@ Work experience
   * The research paper for the project results is under reviewed
 
 * Zhihu Inc: Software Engineer Intern
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Crawled and cleaned millions of Q\&A text and pic\&text pairs from user posts on \emph{Zhihu.com}, and built up two large-scale datasets for the pre-training models by MapReduce, Spark, Scala, and SQL
+  * Designed and implemented the pre-training of \emph{Phase-Granularity BERT Language Model}, which used a dictionary of 920,000 phrases commonly used in Chinese to shorten the search engine response time
+  * Solved GPU’s Out of Memory (OOM) problem caused by model's large-scale trainable parameters; shortened model's computing time 31\% compared with \emph{Character-Granularity BERT model} in searching
+  * Implemented the Pre-Training of a Multi-Modal (picture-text) model for improving search quality based on Contrastive Language-Image Pre-training, improved the Recall Rate (by 20\% on R@1, 30\% on R@5 and 30\% on R@10) of image and text retrieval by using our model compared to the baseline model Wenlan, a larger Chinese multi-modal pre-training model in terms of size
 
 * Shanghai Qiyue technology: Software Engineer Intern
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Realized a chemistry experiment operation scoring system software based on target detection algorithms
+  * Used multi-processing module to detect two perspectives of video frame at the same time and improve the performance
+of scoring system and the final accuracy of the algorithm is over 90\%
   
   
 Service and leadership
