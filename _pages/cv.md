@@ -20,7 +20,7 @@ Work experience
 * Microsoft Research Asia: Software Engineer Intern
   * Designed a high-frequency stock trading data detection algorithm for stock price prediction and analysis, where the important turning points of intra-day stock trading can be well captured and visualized
   * Achieved 29.15% improvement on Information Coefficient (IC) of stock price forecast task based on a quick response to important intra-day transaction records, which were from some representative active stocks in the trading market
-  * Supervisor: The Users
+  * The research paper for the project results is under reviewed
 
 * Zhihu Inc: Software Engineer Intern
   * Github University
