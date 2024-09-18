@@ -17,41 +17,21 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Microsoft Research Asia: Software Engineer Intern
+  * Designed a high-frequency stock trading data detection algorithm for stock price prediction and analysis, where the important turning points of intra-day stock trading can be well captured and visualized
+  * Achieved 29.15% improvement on Information Coefficient (IC) of stock price forecast task based on a quick response to important intra-day transaction records, which were from some representative active stocks in the trading market
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Zhihu Inc: Software Engineer Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Shanghai Qiyue technology: Software Engineer Intern
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
