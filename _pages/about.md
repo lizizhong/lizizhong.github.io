@@ -16,7 +16,7 @@ Recent Papers
 ------
 [10.2024] **A Survey of AI-Generated Video Evaluation**  [arxiv](https://arxiv.org/pdf/2410.19884)
 
-&emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^1], Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, and Jiawei Zhang
+&emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^1], Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
 
 [^1]: Euqal Contribution.
 
