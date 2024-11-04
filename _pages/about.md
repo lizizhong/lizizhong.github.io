@@ -14,6 +14,7 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Recent Papers
 ------
+[10.2024] **A Survey of AI-Generated Video Evaluation**  [arxiv](https://arxiv.org/pdf/2410.19884)
 [06.2024] **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-06-18-paper-intermediate-distillation-number-3)
   
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
