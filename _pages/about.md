@@ -16,9 +16,9 @@ Recent Papers
 ------
 [10.2024] **A Survey of AI-Generated Video Evaluation**  [arxiv](https://arxiv.org/pdf/2410.19884)
 
-&emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^*],Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, and Jiawei Zhang
+&emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^1], Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, and Jiawei Zhang
 
-[^*]: Euqal Contribution.
+[^1]: Euqal Contribution.
 
 &emsp; In this survey, we identify the emerging field of AI-Generated Video Evaluation (AIGVE), highlighting the importance of assessing how well AI-generated videos align with human perception and meet specific instructions.
 
