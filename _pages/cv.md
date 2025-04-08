@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Microsoft Research Asia: Software Engineer Intern
+* Microsoft Research: Software Engineer Intern
   * Designed a high-frequency stock trading data detection algorithm for stock price prediction and analysis, where the important turning points of intra-day stock trading can be well captured and visualized
-  * Achieved 29.15% improvement on Information Coefficient (IC) of stock price forecast task based on a quick response to important intra-day transaction records, which were from some representative active stocks in the trading market
-  * The research paper for the project results is under reviewed
+  * Achieved 29.15% improvement on the Information Coefficient (IC) of the stock price forecast task based on a quick response to important intra-day transaction records, which were from some representative active stocks in the trading market
+  * The research paper for the project results is under-reviewed
 
 * Zhihu Inc: Software Engineer Intern
   * Crawled and cleaned millions of Q&A text and pic&text pairs from user posts on Zhihu.com, and built up two large-scale datasets for the pre-training models by MapReduce, Spark, Scala, and SQL
