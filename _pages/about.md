@@ -14,7 +14,7 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Recent Papers
 ------
-[08.2025] [Findings of EACL 2026🌟] **Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation** [arixv](https://arxiv.org/pdf/2508.03110)
+[08.2025] [Findings of EACL 2026🌟] **Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation** [arixv](https://arxiv.org/pdf/2508.03110) [blog page](https://lizizhong.github.io/publication/2025-08-05-paper-rag-attack-number-4)
 
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
 
