@@ -14,6 +14,12 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Recent Papers
 ------
+[08.2025] [Findings of EACL 2026🌟] **Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation** [arixv](https://arxiv.org/pdf/2508.03110)
+
+&emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
+
+&emsp; In this paper, we propose Token-level Precise Attack on the RAG (TPARAG), which leverages a lightweight white-box LLM as an attacker to generate and iteratively optimize malicious passages at the token level and is suitable for both white-box and black-box RAG systems.
+
 [10.2024] **A Survey of AI-Generated Video Evaluation**  [arxiv](https://arxiv.org/pdf/2410.19884)
 
 &emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^1], Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
@@ -22,13 +28,13 @@ Recent Papers
 
 &emsp; In this survey, we identify the emerging field of AI-Generated Video Evaluation (AIGVE), highlighting the importance of assessing how well AI-generated videos align with human perception and meet specific instructions.
 
-[06.2024] **Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-06-18-paper-intermediate-distillation-number-3)
+[06.2024] [IJCNN 2025🌟]**Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-06-18-paper-intermediate-distillation-number-3)
   
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
 
 &emsp; In this paper, we introduce a data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM ranker-retriever pipeline.
 
-[03.2024] [NAACL2024🌟] **Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation**  [arxiv](https://arxiv.org/abs/2402.11794)  [blog page](https://lizizhong.github.io/publication/2024-02-19-paper-attention-distillation-number-2)
+[03.2024] [NAACL 2024🌟] **Unveiling the Magic: Investigating Attention Distillation in Retrieval-augmented Generation**  [arxiv](https://arxiv.org/abs/2402.11794)  [blog page](https://lizizhong.github.io/publication/2024-02-19-paper-attention-distillation-number-2)
 
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
 
