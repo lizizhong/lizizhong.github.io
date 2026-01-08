@@ -1,7 +1,7 @@
 ---
 title: "Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation"
 collection: publications
-permalink: /publication/2025-08-05-paper-rag-attack-number-4.md
+permalink: /publication/2025-08-05-paper-rag-attack-number-4
 excerpt: 'This paper proposes Token-level Precise Attack on the RAG (TPARAG), which leverages a lightweight white-box LLM as an attacker to generate and iteratively optimize malicious passages at the token level and is suitable for both white-box and black-box RAG systems.'
 date: 2025-08-05
 paperurl: 'https://arxiv.org/pdf/2508.03110'
