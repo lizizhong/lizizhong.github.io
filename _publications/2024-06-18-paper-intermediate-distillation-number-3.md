@@ -1,10 +1,10 @@
 ---
-title: "Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval"
+title: "Learning by Ranking: Data-Efficient Knowledge Distillation from Black-Box LLMs for Information Retrieval"
 collection: publications
 permalink: /publication/2024-06-18-paper-intermediate-distillation-number-3
 excerpt: 'This paper introduce *Intermediate Distillation*, a data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM-ranker-retriever pipeline, solely using LLMs ranking generation as the supervision signal.'
 date: 2024-06-18
-paperurl: 'https://aclanthology.org/2024.naacl-short.65/'
+paperurl: 'https://ieeexplore.ieee.org/document/11228011'
 author: Zizhong Li, Haopeng Zhang, Jiawei Zhang
 ---
 
@@ -15,4 +15,4 @@ Recent research has explored distilling knowledge from large language models (LL
 
 
 ![Ranker_Distillation](../images/distillation-model-main.pdf "The two-stage knowledge distillation process of our proposed Intermediate Distillation scheme. In Stage 1, we use re-ranking order $\pi$ (highlighted in the green background color) as the supervisory signal to train a ranker model. In Stage 2, this distilled ranker unsupervisedly trains the retriever model to enhance its performance.")
-<center>The two-stage knowledge distillation process of our proposed Intermediate Distillation scheme. In Stage 1, we use re-ranking order $\pi$ (highlighted in the green background color) as the supervisory signal to train a ranker model. In Stage 2, this distilled ranker unsupervisedly trains the retriever model to enhance its performance.</center>
+<center>The two-stage knowledge distillation process of our proposed Intermediate Distillation scheme. In Stage 1, we use re-ranking order pi (highlighted in the green background color) as the supervisory signal to train a ranker model. In Stage 2, this distilled ranker unsupervisedly trains the retriever model to enhance its performance.</center>
