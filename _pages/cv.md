@@ -38,3 +38,4 @@ of scoring system and the final accuracy of the algorithm is over 90%
 Service and leadership
 ======
 * Serve as reviewer for EMNLP 2023
+* Serve as reviewer for ARR 2025
