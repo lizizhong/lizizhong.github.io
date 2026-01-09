@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-06-18-paper-intermediate-distillation-number-3
 excerpt: 'This paper introduce *Intermediate Distillation*, a data-efficient knowledge distillation training scheme that treats LLMs as black boxes and distills their knowledge via an innovative LLM-ranker-retriever pipeline, solely using LLMs ranking generation as the supervision signal.'
 date: 2024-06-18
-paperurl: 'https://ieeexplore.ieee.org/document/11228011'
+paperurl: 'https://arxiv.org/abs/2406.12169'
 author: Zizhong Li, Haopeng Zhang, Jiawei Zhang
 ---
 
