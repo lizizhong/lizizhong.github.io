@@ -28,7 +28,7 @@ Recent Papers
 
 &emsp; In this survey, we identify the emerging field of AI-Generated Video Evaluation (AIGVE), highlighting the importance of assessing how well AI-generated videos align with human perception and meet specific instructions.
 
-[06.2024] [IJCNN 2025🌟]**Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-06-18-paper-intermediate-distillation-number-3)
+[06.2024] [IJCNN 2025🌟]**Learning by Ranking: Data-Efficient Knowledge Distillation from Black-Box LLMs for Information Retrieval**  [arixv](https://arxiv.org/abs/2406.12169)  [blog page](https://lizizhong.github.io/publication/2024-06-18-paper-intermediate-distillation-number-3)
   
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang 
 
