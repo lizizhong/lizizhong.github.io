@@ -14,7 +14,6 @@ Retrieval-augmented generation framework can address the limitations of large la
 
 ![AttentionDistillation](../images/attention_distillation_model.pdf "The framework of the Retrieval-augmented Language Model of our experiment.")
 <center>The framework of the Retrieval-augmented Language Model of our experiment.</center>
-
-
+<br />
 ![AttentionDistillationExperiment](../images/nq_answer_p95.pdf "The attention score distribution histogram (left) and Spearman correlation distribution histogram of $95^{th}$ percentile \textit{answer-related")
 <center>The attention score distribution histogram (left) and Spearman correlation distribution histogram of 95th percentile answer-related</center>
