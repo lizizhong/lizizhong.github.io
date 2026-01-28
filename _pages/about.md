@@ -14,6 +14,12 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Recent Papers
 ------
+[01.2026] **MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding** [arxiv](https://arxiv.org/pdf/2601.05495)
+
+&emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
+
+&emsp; In this paper, we introduce MMViR, a novel multi-modal, multi-grained structured representation for long video understanding. MMViR identifies key turning points to segment the video and constructs a three-level description that couples global narratives with fine-grained visual details. This design supports efficient query-based retrieval and generalizes well across various scenarios.
+
 [08.2025] [Findings of EACL 2026🌟] **Token-Level Precise Attack on RAG: Searching for the Best Alternatives to Mislead Generation** [arixv](https://arxiv.org/pdf/2508.03110) [blog page](https://lizizhong.github.io/publication/2025-08-05-paper-rag-attack-number-4)
 
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
