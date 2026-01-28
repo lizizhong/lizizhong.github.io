@@ -14,7 +14,7 @@ My research interest lies in natural language processing, specifically in nonpar
 
 Recent Papers
 ------
-[01.2026] **MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding** [arxiv](https://arxiv.org/pdf/2601.05495)
+[01.2026] **MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding** [arxiv](https://arxiv.org/pdf/2601.05495) [blog page](https://lizizhong.github.io/publication/2026-01-09-paper-mmvir-5.md)
 
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
 
@@ -30,7 +30,7 @@ Recent Papers
 
 &emsp; Xiao Liu∗, Xinhao Xiang∗, **Zizhong Li∗**[^1], Yongheng Wang, Zhuoheng Li, Zhuosheng Liu, Weidi Zhang, Weiqi Ye, Jiawei Zhang
 
-[^1]: Euqal Contribution.
+[^1]: Equal Contribution.
 
 &emsp; In this survey, we identify the emerging field of AI-Generated Video Evaluation (AIGVE), highlighting the importance of assessing how well AI-generated videos align with human perception and meet specific instructions.
 
