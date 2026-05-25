@@ -12,8 +12,10 @@ I am a third-year CS Ph.D. student at the University of California, Davis, advis
 My research interests lie in natural language processing, specifically in nonparametric language modeling, misinformation & information retrieval, and multi-modal generative models. 
 
 
-Recent Papers
+Recent Papers & News
 ------
+[05.2026] passed my QE exam 🎉
+
 [01.2026] **MMViR: A Multi-Modal and Multi-Granularity Representation for Long-range Video Understanding** [arxiv](https://arxiv.org/pdf/2601.05495) [blog page](https://lizizhong.github.io/publication/2026-01-09-paper-mmvir-5.md)
 
 &emsp; **Zizhong Li**, Haopeng Zhang, Jiawei Zhang
